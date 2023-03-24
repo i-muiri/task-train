@@ -15,7 +15,7 @@ export default function Task () {
         <div>
             <Link to="/add"><button class="btn btn-primary">Add To Do</button></Link>
             
-        <table>
+        <table className="table">
         <thead>
           <tr>
             <th>Name</th>

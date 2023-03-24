@@ -5,7 +5,7 @@ export default function Navbar() {
 
 
     return (
-        <nav className="navbar bg-body-tertiary d-flex justify-content-center align-items-center">
+        <nav className="navbar bg-body-tertiary d-flex justify-content-center align-items-center m-3">
             <div className="container-fluid">
                 <Link to="/" className="navbar-brand">Task Train</Link>
             </div>
