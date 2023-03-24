@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  background:linear-gradient(to right, #00ffff, #0066ff);
+  opacity: 100%;
+  
+  background-position: center;
+}
+
+.card {
+  width: 33%;
+  margin: 0 auto;
+  margin-top: 3cm;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 24px;
+  
+}
